@@ -1,3 +1,4 @@
+![Color Museum](https://raw.githubusercontent.com/AbidHasanRafi/python-kickstart-code-and-collaborate/main/Python%20Kickstart%20Code%20%26%20Collaborate%20with%20GitHub%20Codespaces.png)
 # Python Kickstart: Code & Collaborate with GitHub Codespaces
 **📅 Duration:** 2 Days (1 Hour Each)  
 **👨‍💻 Audience:** Beginners in Python & GitHub  
