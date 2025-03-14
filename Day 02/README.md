@@ -33,8 +33,8 @@ git pull origin main
 #### 🔹 Other Version Control Methods
 
 ```bash
-| Situation                                      | Command                              |
-|-----------------------------------------------|--------------------------------------|
+| Situation                                    | Command                             |
+|----------------------------------------------|-------------------------------------|
 | Just browsing an old version                 | `git checkout <commit-hash>`        |
 | Go back permanently & delete changes         | `git reset --hard <commit-hash>`    |
 | Undo last commit but keep files              | `git reset --soft HEAD~1`           |
